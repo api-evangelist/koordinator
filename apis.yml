@@ -1,0 +1,14 @@
+name: Koordinator
+description: A QoS-based scheduling system for hybrid workloads orchestration on Kubernetes,
+  providing colocation, interference detection, and resource optimization capabilities
+url: https://koordinator.sh
+tags:
+- Kubernetes
+- Scheduling
+- Resource Management
+- QoS
+- Workload Orchestration
+created: '2025'
+modified: '2025'
+apis: []
+common: []
