@@ -29,14 +29,14 @@ apis:
     properties:
       - type: Documentation
         url: https://koordinator.sh/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://koordinator.sh/docs/installation
 common:
   - type: Website
     url: https://koordinator.sh
   - type: Documentation
     url: https://koordinator.sh/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/koordinator-sh/koordinator
 maintainers:
   - FN: Kin Lane
