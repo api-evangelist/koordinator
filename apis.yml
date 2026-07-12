@@ -32,12 +32,16 @@ apis:
       - type: GettingStarted
         url: https://koordinator.sh/docs/installation
 common:
+  - type: DomainSecurity
+    url: security/koordinator-domain-security.yml
   - type: Website
     url: https://koordinator.sh
   - type: Documentation
     url: https://koordinator.sh/docs/
   - type: GitHubOrganization
     url: https://github.com/koordinator-sh/koordinator
+  - url: https://koordinator.sh/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
