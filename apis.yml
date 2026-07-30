@@ -5,7 +5,19 @@ description: >-
   orchestration on Kubernetes, providing colocation, interference detection,
   and resource optimization capabilities to improve cluster utilization.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/koordinator.png
 tags:
   - Kubernetes
   - QoS
