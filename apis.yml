@@ -58,6 +58,12 @@ apis:
       - type: GettingStarted
         url: https://koordinator.sh/docs/installation
 common:
+  - type: Plans
+    url: plans/koordinator-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/koordinator-rate-limits.yml
+  - type: FinOps
+    url: finops/koordinator-finops.yml
   - type: DomainSecurity
     url: security/koordinator-domain-security.yml
   - type: Website
