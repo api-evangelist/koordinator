@@ -34,6 +34,12 @@ x-docs-platform-confidence: medium
 x-docs-platform-checked: 2026-10-03
 tags:
   - Kubernetes
+  - Quality of Service
+  - Resource Management
+  - Scheduling
+  - Workload Orchestration
+tags_raw:
+  - Kubernetes
   - QoS
   - Resource Management
   - Scheduling
